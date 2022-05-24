@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "../stylesheets/_modal.scss";
 
 export default function Modal({ gradient, name }) {
   const [isOpen, setIsOpen] = useState(false);

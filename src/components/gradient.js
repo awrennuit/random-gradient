@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "../stylesheets/_gradient.scss";
 import Modal from "./modal";
 
 export default function Gradient() {
